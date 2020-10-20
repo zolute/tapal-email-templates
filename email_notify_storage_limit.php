@@ -44,7 +44,7 @@
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding: 40px 20px 40px 20px;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         Hye
                                         <? GetUser(); ?>
                                     </h3>
@@ -62,7 +62,7 @@
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;padding-top: 0px;">
 
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         Your vicemail box reached the limit of
                                         <? GetUsage(); ?> of
                                         <? GetStorageLimit(); ?> messeges and hold new voice mail message.
@@ -79,7 +79,7 @@
                                         <tbody>
                                             <tr>
                                                 <td align="left"
-                                                    style="font-family: Open Sans,sans-serif;line-height: 1.65;min-height: 20px;border-radius: 4px;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);box-shadow: inset 0 1px 1px rgba(0,0,0,.05);background: #efac1f;margin: 0 0 20px;padding: 19px;border: 1px solid #efac1f;"
+                                                    style="font-family: Open Sans,sans-serif;font-size: 18px;line-height: 1.65;min-height: 20px;border-radius: 4px;-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);box-shadow: inset 0 1px 1px rgba(0,0,0,.05);background: #efac1f;margin: 0 0 20px;padding: 19px;border: 1px solid #efac1f;"
                                                     bgcolor="#f5f5f5">
                                                     Please reveiw and clean up yuour voicemail box message to continue
                                                     receiving new message.

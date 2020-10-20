@@ -183,10 +183,10 @@
 
     h4 {
       color: #949494;
-      font-family: Georgia;
+      font-family: Helvetica;
       font-size: 20px;
       font-style: italic;
-      font-weight: normal;
+      font-weight: bold;
       line-height: 125%;
       letter-spacing: normal;
       text-align: center;
@@ -669,10 +669,10 @@
                                           <td valign="top" class="mcnTextContent"
                                             style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #757575;font-family: Helvetica;font-size: 16px;line-height: 150%;text-align: left;">
                                             <h1
-                                              style="display: block;margin: 0;padding: 0;color: #222222;font-family: Helvetica;font-size: 30px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal; text-align: left;">
+                                              style="display: block;margin: 0;padding: 0;color: #222222;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal; text-align: left;">
                                               Greetings <? GetName(); ?></h1>
                                             <P
-                                              style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #757575;font-family: Helvetica;font-size: 16px;line-height: 150%;text-align: left;">
+                                              style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #757575;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
                                               We are please to have you on board. Please save the following information for future reference. You will need to reset your password with given link to activate your account. </p>
                                           </td>
                                         </tr>
@@ -781,16 +781,16 @@
                           </td>
                           <td align="right" style="width: 60%; text-align: right;">
                             <a href="#" style="color: #fff;"><img
-                                src="https://seeklogo.com/images/A/apple-icon-logo-26EE948661-seeklogo.com.png"
+                                src="https://www.tapalinfosys.com/wp-content/uploads/2020/10/apple-icon-logo.png"
                                 width="50px"></a>
                             <a href="https://www.dropbox.com/s/f6ud5yzh2u6cr27/tapalvoip-communicator.exe?dl=0" style="color: #fff;"> <img
-                                src="https://www.iconfinder.com/data/icons/popular-services-brands-vol-2/512/windows-512.png"
+                                src="https://www.tapalinfosys.com/wp-content/uploads/2020/10/windows-icon.png"
                                 width="50px"> </a>
                             <a href="#" style="color: #fff;"> <img
-                                src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" width="50px">
+                                src="https://www.tapalinfosys.com/wp-content/uploads/2020/10/android-flat.png" width="50px">
                             </a>
                             <a href="https://www.dropbox.com/s/vu730c83h9wwxc2/TapalVoIP%20Communicator-darwin-x64.zip?dl=0" style="color: #fff;"> <img
-                                src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Finder_Icon_2020.png"
+                                src="https://www.tapalinfosys.com/wp-content/uploads/2020/10/macos-finder-icon-250x235-1.jpg"
                                 width="50px"> </a>
                           </td>
                           <td>
@@ -816,7 +816,7 @@
                                 style="max-width: 264px;padding-bottom: 0;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;"
                                 class="mcnImage">
                               <h4
-                                style="display: block;margin: 20px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 18px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
+                                style="display: block;margin: 20px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
                                 Blog</h4>
                               <a class="mcnButton " href="https://www.tapalinfosys.com/blogs-articles/" target="_blank"
                                 style="line-height: 2;text-align: center;text-decoration: none;color: #FFFFFF;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;display: block;border-collapse: separate !important;border-radius: 3px;background-color: #009FC7;font-size: 16px;font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; max-width: 140px;margin: 0 auto;">Read
@@ -828,7 +828,7 @@
                                 style="max-width: 264px;padding-bottom: 0;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;"
                                 class="mcnImage">
                               <h4
-                                style="display: block;margin: 20px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 18px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
+                                style="display: block;margin: 20px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
                                 FAQs</h4>
                               <a class="mcnButton " href="https://www.tapalinfosys.com/faqs/" target="_blank"
                                 style="line-height: 2;text-align: center;text-decoration: none;color: #FFFFFF;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;display: block;border-collapse: separate !important;border-radius: 3px;background-color: #009FC7;font-size: 16px;font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif; max-width: 140px;margin: 0 auto;">Read
@@ -841,7 +841,7 @@
                                 style="max-width: 264px;padding-bottom: 0;border: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;"
                                 class="mcnImage">
                               <h4
-                                style="display: block;margin: 20px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 18px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
+                                style="display: block;margin: 20px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
                                 Portal</h4>
                               <a class="mcnButton " href="https://www.tapalinfosys.com/portal-features-quick-code/"
                                 target="_blank"
@@ -961,7 +961,7 @@
                           <td>
                             <div style=" display: inline-block; width: 50%;vertical-align: top;" id="contactBox">
                               <h4
-                                style="display: block;margin: 15px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
+                                style="display: block;margin: 15px 0;padding: 0;color:#0d5885;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal;">
                                 Contact info</h4>
                               <ul style=" padding-left: 10px; list-style: none;">
                                 <li

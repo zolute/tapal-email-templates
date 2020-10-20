@@ -60,7 +60,7 @@
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;padding-top: 0;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         You have a Voice Mail from <? GetVmailFrom(); ?></h3>
                                 </td>
                             </tr>
@@ -77,7 +77,7 @@
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         Received on: <b><i>
                                             <? GetDateTime(); ?></i></b></h3>
                                 </td>
@@ -100,7 +100,7 @@
                                                 <td bgcolor="white"
                                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:15px 5px 15px 5px;">
                                                     <h3
-                                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:20px;">
+                                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:18px;">
                                                         Listen By Clicking:</h3>
                                                 </td>
                                             </tr>
@@ -141,7 +141,7 @@
                         <tbody>
                             <tr>
                                 <td bgcolor="white" height="50" style="line-height:1.65;padding: 20px;">
-                                    <p style="color:#555555;font-family:Open Sans,sans-serif;margin:0;padding:0;">Listen
+                                    <p style="color:#555555;font-family:Open Sans,sans-serif;margin:0;padding:0;font-size: 18px;">Listen
                                         by opening the enclosed attachment.</p>
 
                             </tr>

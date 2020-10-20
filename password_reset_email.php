@@ -54,7 +54,7 @@
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:10px 20px 10px 20px;text-align: center;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:normal;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:normal;margin:0;padding:0;font-size: 18px;">
                                         We recently recived a request to reset your password</h3>
                                 </td>
                             </tr>
@@ -77,7 +77,7 @@
                                                 <td bgcolor="white"
                                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:15px 5px 15px 5px;text-align: center;">
                                                     <h3
-                                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:20px;">
+                                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:18px;">
                                                         Click Button Below To Reset Your Password</h3>
                                                 </td>
                                             </tr>
@@ -112,7 +112,7 @@
                             <tr>
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;text-align: justify;">
-                                    <h3 style="font-weight: 100;">You have from the time this email was sent to complete
+                                    <h3 style="font-weight: 100;font-size: 18px;">You have from the time this email was sent to complete
                                         your password reset before the link expires. If you did not request to reset
                                         your password or you no longer want to reset, you can ignore this message. The
                                         request included your correct login name.<h3>

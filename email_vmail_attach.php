@@ -44,7 +44,7 @@
 								<td bgcolor="white"
 									style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding: 40px 20px 40px 20px;">
 									<h3
-										style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+										style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
 										Hye   <? GetUser(); ?></h3>
 								</td>
 							</tr>
@@ -60,7 +60,7 @@
 									style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;padding-top: 0px;">
 
 									<h3
-										style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+										style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
 										You have new voicemail form <? GetVmailFrom(); ?>
 										
 									</h3>
@@ -74,7 +74,7 @@
 							<tr>
 								<td bgcolor="white" style="padding:20px;">
 									<h3
-										style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+										style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
 										Please find the message audio file in the attachment. </h3>
 								</td>
 							</tr>
@@ -94,7 +94,7 @@
 												<td bgcolor="white"
 													style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:15px 5px 15px 5px;">
 													<h3
-														style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:20px;">
+														style="color:#222222;font-family:Open Sans,sans-serif;font-weight:bold;margin:0;padding:0;font-size:18px;">
 														Your transcribed message:</h3>
 												</td>
 											</tr>
@@ -133,7 +133,7 @@
 								<td bgcolor="#ffffff" class=""
 									style="padding:20px; font-family:&quot;Open Sans&quot;,sans-serif; color:rgb(85,85,85)">
 									<h3 class=""
-										style="font-size:24px; margin:0px; font-weight:100; line-height:40px; padding:0px">
+										style="font-size:18px; margin:0px;color:#222222; font-weight:bold; line-height:40px; padding:0px">
 										Voice Mail Message Details:</h3>
 								</td>
 							</tr>
@@ -188,7 +188,7 @@
 						<tbody>
 							<tr>
 								<td bgcolor="white" height="50" style="line-height:1.65;padding: 20px;">
-									<p style="color:#555555;font-family:Open Sans,sans-serif;margin:0;padding:0;">Listen
+									<p style="color:#555555;font-family:Open Sans,sans-serif;margin:0;padding:0;font-size:18px;">Listen
 										by opening the enclosed attachment.</p>
 
 							</tr>

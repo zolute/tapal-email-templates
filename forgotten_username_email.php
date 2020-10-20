@@ -44,7 +44,7 @@
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         Hye <? GetUserTo(); ?></h3>
                                 </td>
                             </tr>
@@ -59,14 +59,14 @@
                                 <td bgcolor="white"
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;padding-top: 0;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         We recently received a request for your login name.</h3>
                                 </td>
                             </tr>
                             <tr>
                                 <td bgcolor="white" style="padding:20px;">
                                     <h3
-                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;">
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
                                         Here is your login name: <b><? GetUserName(); ?></b></h3>
                                 </td>
                             </tr>
@@ -86,7 +86,7 @@
                                                 <td bgcolor="white"
                                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:15px 5px 15px 5px;">
                                                     <h3
-                                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:20px;">
+                                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:18px;">
                                                         You can now log in by clicking the button below!</h3>
                                                 </td>
                                             </tr>
@@ -124,7 +124,7 @@
                             <tr>
                                 <td bgcolor="white" height="50"
                                     style="line-height:1.65;padding: 20px;text-align: justify;">
-                                    <p style="color:#555555;font-family:Open Sans,sans-serif;margin:0;padding:0;">If you
+                                    <p style="color:#555555;font-family:Open Sans,sans-serif;margin:0;padding:0;font-size: 18px;">If you
                                         did not request your login name you can ignore this message. The request
                                         included your correct email.</p>
                                 </td>

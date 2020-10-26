@@ -670,7 +670,7 @@
                                             style="padding-top: 0;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;word-break: break-word;color: #757575;font-family: Helvetica;font-size: 16px;line-height: 150%;text-align: left;">
                                             <h1
                                               style="display: block;margin: 0;padding: 0;color: #222222;font-family: Helvetica;font-size: 20px;font-style: normal;font-weight: bold;line-height: 100%;letter-spacing: normal; text-align: left;">
-                                              Greetings <? GetName(); ?></h1>
+                                              Hi <? GetName(); ?></h1>
                                             <P
                                               style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #757575;font-family: Helvetica;font-size: 14px;line-height: 150%;text-align: left;">
                                               We are please to have you on board. Please save the following information for future reference. You will need to reset your password with given link to activate your account. </p>

@@ -45,8 +45,7 @@
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding: 40px 20px 40px 20px;">
                                     <h3
                                         style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
-                                        Hye
-                                        <? GetUser(); ?>
+                                        Hi <? GetName(); ?>
                                     </h3>
                                 </td>
                             </tr>
@@ -63,7 +62,7 @@
 
                                     <h3
                                         style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
-                                        Your vicemail box reached the limit of
+                                        Your voicemail box reached the limit of
                                         <? GetUsage(); ?> of
                                         <? GetStorageLimit(); ?> messeges and hold new voice mail message.
                                     </h3>

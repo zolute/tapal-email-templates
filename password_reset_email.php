@@ -50,9 +50,17 @@
                     <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation"
                         style="border-spacing:0;max-width:600px;margin:0 auto;border-width:1px;border-color:#DEDEDE;border-right-style:solid;border-left-style:solid;">
                         <tbody>
+						 <tr>
+                                <td bgcolor="white"
+                                    style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px 20px 10px 20px;">
+                                    <h3
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
+                                        Hi <? GetName(); ?></h3>
+                                </td>
+                            </tr>
                             <tr>
                                 <td bgcolor="white"
-                                    style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:10px 20px 10px 20px;text-align: center;">
+                                    style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:10px 20px 10px 20px;">
                                     <h3
                                         style="color:#555555;font-family:Open Sans,sans-serif;font-weight:normal;margin:0;padding:0;font-size: 18px;">
                                         We recently recived a request to reset your password</h3>
@@ -75,7 +83,7 @@
                                         <tbody>
                                             <tr>
                                                 <td bgcolor="white"
-                                                    style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:15px 5px 15px 5px;text-align: center;">
+                                                    style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:15px 5px 15px 5px;">
                                                     <h3
                                                         style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size:18px;">
                                                         Click Button Below To Reset Your Password</h3>

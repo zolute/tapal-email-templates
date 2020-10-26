@@ -40,9 +40,18 @@
 									</h2>
 								</td>
 							</tr>
+							
+							 <tr>
+                                <td bgcolor="white"
+                                    style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px 20px 10px 20px;">
+                                    <h3
+                                        style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
+                                        Hi <? GetName(); ?></h3>
+                                </td>
+                            </tr>
 							<tr class="">
 								<td bgcolor="#ffffff" class=""
-									style="padding:20px; font-family:&quot;Open Sans&quot;,sans-serif; color:rgb(85,85,85)">
+									style="padding:10px 20px 10px 20px; font-family:&quot;Open Sans&quot;,sans-serif; color:rgb(85,85,85)">
 									<div class=""
 										style="margin:0px; padding:0px;font-size: 16px;text-align: justify;line-height: 28px;font-size: 18px;">
 										A call was received on phone number&nbsp;<span class=""

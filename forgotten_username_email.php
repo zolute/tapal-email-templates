@@ -45,7 +45,7 @@
                                     style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;padding:20px;">
                                     <h3
                                         style="color:#555555;font-family:Open Sans,sans-serif;font-weight:100;margin:0;padding:0;font-size: 18px;">
-                                        Hye <? GetUserTo(); ?></h3>
+                                        Hi <? GetName(); ?></h3>
                                 </td>
                             </tr>
 
